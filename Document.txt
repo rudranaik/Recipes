@@ -6,3 +6,5 @@ Change number 2
 Change for branch 3
 
 Slave change 2
+
+Change from terminal Slave 1
